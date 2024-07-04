@@ -1,10 +1,6 @@
 <h2> hi👋! i'm allen shen! </h2>
 
-
-Welcome to my github!
-
-![Welcome](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTIxcXhwZnYxN2k0MXUwYWZobzlqNXBveGZtZGxwNHlnMnBqaWpjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xwGZR5UtB6SiL6/giphy.webp)
-
+Welcome to my GitHub!
 
 
 - Feel free to visit me at www.allenlishen.com!
